@@ -1,0 +1,12 @@
+.erros{
+    background-color: rgb(24, 24, 24);
+    color: rgb(207, 59, 59);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.bot{
+    cursor: pointer;
+}

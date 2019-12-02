@@ -1,0 +1,92 @@
+/* PAGINA */
+body{
+    max-width: 100%;max-height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+/* TOPO */
+.cabecalho{  
+    margin: 0;
+    height: 120px;
+    background-color: #ff3b3f;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+
+.beleza{
+    height: 110px;
+    max-width: 100%;
+    margin: 0px;
+    
+    float: left;
+}
+
+.titcima{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35pt;
+    position: absolute;
+    color: white;
+}
+/* MENU */
+.menu{
+    background-color: #ff3b3f;
+    padding: 10px;
+    height: 380px;
+    width: 250px;
+    text-align: left;
+    float: left;
+}
+
+.divisao{
+    color: white;
+    border-style: solid;
+    border-radius: 21px;
+    margin-top: 15px; margin-bottom: 15px;
+}
+
+.textomenu{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14pt;
+    color: white;
+    
+}
+
+.link{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14pt;
+    color: white;
+    text-decoration: none;  
+}
+
+.link:hover{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16pt;
+    color: white;
+    text-decoration: none; 
+    text-shadow: 1px 1px 5px rgb(229, 255, 0);
+
+}
+
+
+/* PARTE CENTRAL */
+.centro{
+    background-color: #ff3b3f;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 5px; 
+    width: 75%;
+    height: 375px;
+    float: left;
+    padding-top: 25px;
+    overflow: auto;
+    text-align: center;
+}
+
+.ents{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14pt;
+    color: white; 
+}

@@ -1,0 +1,302 @@
+/* PAGINA */
+body{
+    max-width: 100%;max-height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+/* TOPO */
+.cabecalho{  
+    margin: 0;
+    height: 120px;
+    background-color: #ff3b3f;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+
+.beleza{
+    height: 110px;
+    max-width: 100%;
+    margin: 0px;
+    
+    float: left;
+}
+
+.titcima{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35pt;
+    position: absolute;
+    color: white;
+}
+/* MENU */
+.menu{
+    background-color: #ff3b3f;
+    padding: 10px;
+    height: 380px;
+    width: 250px;
+    text-align: left;
+    float: left;
+}
+
+.divisao{
+    color: white;
+    border-style: solid;
+    border-radius: 21px;
+    margin-top: 15px; margin-bottom: 15px;
+}
+
+.textomenu{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14pt;
+    color: white;
+    
+}
+
+.link{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14pt;
+    color: white;
+    text-decoration: none;  
+}
+
+.link:hover{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16pt;
+    color: white;
+    text-decoration: none; 
+    text-shadow: 1px 1px 5px rgb(229, 255, 0);
+
+}
+
+
+/* PARTE CENTRAL */
+.centro{
+    background-color: #ff3b3f;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 5px; 
+    width: 75%;
+    height: 375px;
+    float: left;
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+.titulo_{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30PT;
+}
+
+.entradas{
+   float: left;
+    /* background-color: white; */
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    color:white;
+    text-align: center;
+}
+
+.saidas{
+    float: left;
+    /* background-color: white; */
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+}
+
+.saldof{
+    float: right;
+    /* background-color: white; */
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+    color: white;
+    text-align: center;
+}
+
+.totent{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20pt;
+    color: white;
+}
+
+.totent:hover{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25pt;
+    color: greenyellow;
+    cursor: default;
+}
+
+.totsai{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20pt;
+    color: white;
+    cursor: default;
+}
+
+.totsai:hover{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25pt;
+    color: rgb(116, 4, 4);
+    cursor: default;
+}
+
+.saldoverde{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20pt;
+    color: rgb(0, 255, 42);
+   
+}
+.saldoverde:hover{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25pt;
+    color: rgb(0, 255, 42);
+    cursor: default;
+}
+
+.saldovermelho{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20pt;
+    color: rgb(100, 2, 2);
+    /* text-shadow: 1px 1px 1px white; */
+    
+}
+
+.saldovermelho{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25pt;
+    color: rgb(100, 2, 2);
+    /* text-shadow: 1px 1px 1px white; */
+    cursor: default;
+}
+
+
+.tit2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 13pt;
+    color: rgb(255, 255, 255);
+}
+
+.ope{
+    float: none;
+    /* background-color: white; */
+    width: 200px;
+    height: 200px;
+   
+    
+    color: white;
+    text-align: center;
+}
+
+
+
+.fildset{
+    width: 800px;
+    height: 110px;
+    padding-top: 30px;
+    border: outset;
+    margin-left: 60px;
+}
+
+
+.opebtn{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    border-radius: 15px; 
+}
+.opebtn:hover{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: red;
+    border-radius: 15px; 
+    font-size: 12pt;
+}
+
+.opebtne{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    border-radius: 15px; 
+}
+
+.opebtne:hover{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(38, 138, 8);
+    border-radius: 15px; 
+    font-size: 12pt;
+}
+
+.opebtns{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    border-radius: 15px; 
+}
+
+.opebtns:hover{
+    position: relative;
+    border: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    height: 30px; width: 250px; 
+    cursor: pointer;  
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(97, 0, 0);
+    border-radius: 15px; 
+    font-size: 12pt;
+}
+
+.centroerase{
+    background-color: #ff3b3f;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 5px; 
+    width: 75%;
+    height: 350px;
+    float: left;
+    padding-top: 50px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+    
+
