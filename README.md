@@ -1,3 +1,3 @@
 # Sistema de Finanças
 
-Sistema desenvolvido com mero objetivo de aprender a linguagem.
+Sistema desenvolvido em 2018 com mero objetivo de aprender a linguagem.
